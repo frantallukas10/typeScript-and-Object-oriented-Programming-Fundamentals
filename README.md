@@ -19,13 +19,6 @@ tsc fileName.ts
 - Compile-time errors
 - Great tooling
 
-## Javascript versions:<br>
-
-- ES5 (ESMASCRIPT 5): supported by all browsers<br>
-- ES (2015)<br>
-- ES2016<br>
-- ES2017<br>
-
 ## 1. Declaring Variables
 
 ## 2. Type annotations
